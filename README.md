@@ -7,7 +7,9 @@
 
 ## 🌟 Overview
 
-Rufus is a free Chrome extension that brings premium table styling to ChatGPT's free tier. While table beautification is a paid ChatGPT feature, Rufus provides this and more - completely free!
+Rufus is a free Chrome extension, 100% written by AI, that brings premium table styling to ChatGPT's free tier. While table beautification is a paid ChatGPT feature, Rufus provides this and more - completely free!
+
+![Screen Recording 2025-06-08 at 9 30 19 (1)](https://github.com/user-attachments/assets/12df5661-ce2d-48ef-8b92-d03acfd5ed1b)
 
 ## ✨ Features
 
