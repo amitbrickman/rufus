@@ -44,8 +44,6 @@ Rufus is a free Chrome extension that brings premium table styling to ChatGPT's 
 
 - **Quick Copy**: After beautifying, use the copy icon in the table header to get the Markdown version
 - **Image Export**: Use the download icon to save the table as a PNG image
-- **Table Interaction**: Hover over rows to highlight them for better readability
-- **Cell Content**: Hover over truncated cells to see their full content
 
 ## 🎯 Why Rufus?
 
